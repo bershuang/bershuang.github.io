@@ -1,0 +1,128 @@
+[
+  {
+    "backcolor": "#02000f",
+    "name": "GMK Houhai Taikonaut Kit",
+    "author": "Blake Warenik - Grundlemere",
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Black",
+    "pcb": true,
+    "css": "@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@500&display=swap');\n\n* .keylabel4, .keylabel8 { font-family: 'Noto Sans SC', sans-serif; } "
+  },
+  [
+    {
+      "y": 1.5,
+      "x": 1.5,
+      "c": "#29211c",
+      "t": "#ff2d21",
+      "p": "OEM SPACE",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Black",
+      "a": 3,
+      "f": 4,
+      "w": 6
+    },
+    "\n\n\n\n6u center"
+  ],
+  [
+    {
+      "x": 1.5,
+      "w": 6
+    },
+    "\n\n\n\n6u off center",
+    {
+      "p": "OEM 4",
+      "a": 4,
+      "f": 7,
+      "fa": [
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "B\n\n\n马"
+  ],
+  [
+    {
+      "x": 1.5,
+      "t": "#000000",
+      "p": "OEM SPACE",
+      "a": 7,
+      "f": 3,
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.75
+    },
+    "",
+    {
+      "w": 2
+    },
+    "",
+    {
+      "c": "#a7d0db",
+      "w": 2
+    },
+    ""
+  ],
+  [
+    {
+      "x": 1.5,
+      "c": "#29211c",
+      "w": 2.25
+    },
+    "",
+    {
+      "w": 2.75
+    },
+    ""
+  ],
+  [
+    {
+      "x": 1.5,
+      "c": "#ff2d21",
+      "t": "#29211c",
+      "w": 6.25
+    },
+    ""
+  ],
+  [
+    {
+      "x": 1.5,
+      "w": 7
+    },
+    ""
+  ],
+  [
+    {
+      "x": 1.5,
+      "c": "#a7d0db",
+      "w": 6.25
+    },
+    ""
+  ],
+  [
+    {
+      "x": 1.5,
+      "w": 7
+    },
+    ""
+  ],
+  [
+    {
+      "y": 0.5,
+      "c": "#cccccc",
+      "t": "#000000",
+      "d": true
+    },
+    "",
+    {
+      "x": 13.25,
+      "d": true
+    },
+    ""
+  ]
+]
