@@ -1,0 +1,255 @@
+[
+  {
+    "backcolor": "#02000f",
+    "name": "GMK Houhai Xiaochi Kit",
+    "author": "Blake Warenik - Grundlemere",
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Black",
+    "plate": true,
+    "css": ".custom {}\n.custom-glyph-1:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-mao.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.75em; \n}\n.custom {}\n.custom-glyph-2:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://raw.githubusercontent.com/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-bao.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.25em; \n  height: 1.25em; \n  background-size: 1.25em; \n}\n.custom {}\n.custom-glyph-3:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/2fc0f0137d2460507a28180eec646ecf/raw/a03af0f69bfed08ff7cee60accba896de8cce874/houhai-lantern.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.35em; \n  height: 1.35em; \n  background-size: 1.35em; \n}\n.custom {}\n.custom-glyph-4:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-stars.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.25em; \n}\n.custom {}\n.custom-glyph-5:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/0a6c34ab79e294ae032211f84572d18b/raw/b93ee9173a2798bf0344c360c0ef6bfd1c6f3af4/beijing-ditie.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.25em; \n  height: 1.25em; \n  background-size: 1.35em; \n}\n.custom {}\n.custom-glyph-6:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-tiantan.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.25em; \n}\n.custom {}\n.custom-glyph-7:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/0e4c27c19f99e059234e049f72e552f6/raw/43b5bc6d3b13f8c3a6985ecb920ea4cd10a227e5/houhai-cctv.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.25em; \n  height: 1.25em; \n  background-size: 1em; \n}\n.custom {}\n.custom-glyph-8:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/9476478fac0213ec96f5befe6e57f6f8/raw/0f615ad2c7329fdb8fb195c147e636e98401ddb0/houhai-forbidden-city.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.25em; \n}\n.custom {}\n.custom-glyph-9:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/e0ba759ab0b9551c65a1ca8759a3e3ec/raw/2865a769b8cc140d37f72dda32a2e4b3fe0bea50/houhai-jiangshi.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.35em; \n}\n.custom {}\n.custom-glyph-a:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-dragon.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.75em; \n  height: 1.5em; \n  background-size: 3em; \n}\n.custom {}\n.custom-glyph-b:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://raw.githubusercontent.com/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-dumpling.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.5em; \n}\n.custom {}\n.custom-glyph-c:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-sanlunche.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.25em; \n}\n.custom {}\n.custom-glyph-d:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-hotpot.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.15em; \n}\n.custom {}\n.custom-glyph-e:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-swallow.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.25em; \n}\n.custom {}\n.custom-glyph-f:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-willow.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.25em; \n}\n.custom {}\n.custom-glyph-0:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/bershuang.github.io/master/GMK%20Houhai/Houhai%20Icon%20Glyphs/houhai-teapot.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 1.5em; \n  height: 1.5em; \n  background-size: 1.35em; \n}\n.custom {}\n.custom-glyph-g:after { \n  /* Set the background for this glyph to your image */\n  background-image: url('https://gitcdn.link/repo/bershuang/a97be0baacc82b0ebc58abcb39cc931c/raw/8e33348b77b53ae71bbe2951763bbc81c72026bb/houhai-dragon-gold.svg'); \n  background-repeat: no-repeat;\n  background-position: center;\n\n  /* Content is required for it to appear; this is a non-breaking-space */\n  content:'\\00a0'; \n  display:inline-block; \n\n  /* Sizing in EMs allows the glyph to scale with the font-size */\n  width: 2em; \n  height: 1em; \n  background-size: 2.25em; \n}"
+  },
+  [
+    {
+      "y": 0.25,
+      "c": "#29211c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Tea",
+      "a": 7,
+      "d": true
+    },
+    "R1",
+    {
+      "x": 0.5,
+      "c": "#f12d38",
+      "t": "#E0EEEC",
+      "p": "OEM R1",
+      "f": 9
+    },
+    "串"
+  ],
+  [
+    {
+      "y": 0.75,
+      "c": "#29211c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "f": 3,
+      "d": true
+    },
+    "R1",
+    {
+      "x": 0.5,
+      "c": "#f12d38",
+      "t": "#5C5B58",
+      "p": "OEM R1",
+      "f": 9
+    },
+    "<i class='custom custom-glyph-1'></i>",
+    {
+      "t": "#ff9100"
+    },
+    "<i class='custom custom-glyph-4'></i>",
+    {
+      "c": "#5C5B58",
+      "t": "#f12d38"
+    },
+    "<i class='custom custom-glyph-3'></i>",
+    "<i class='custom custom-glyph-e'></i>",
+    {
+      "c": "#59C394",
+      "p": "OEM R3"
+    },
+    "<i class='custom custom-glyph-8'></i>",
+    {
+      "c": "#E0EEEC",
+      "t": "#5C5B58",
+      "p": "OEM R1"
+    },
+    "<i class='custom custom-glyph-2'></i>"
+  ],
+  [
+    {
+      "c": "#29211c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "f": 3,
+      "d": true
+    },
+    "R2",
+    {
+      "x": 0.5,
+      "c": "#404d86",
+      "t": "#E0EEEC",
+      "p": "OEM R1",
+      "f": 9
+    },
+    "<i class='custom custom-glyph-5'></i>",
+    {
+      "c": "#5C5B58",
+      "t": "#43a2d3",
+      "p": "OEM R2"
+    },
+    "<i class='custom custom-glyph-6'></i>",
+    "<i class='custom custom-glyph-f'></i>",
+    {
+      "x": 2,
+      "c": "#FFA914",
+      "t": "#f12d38",
+      "p": "OEM R4",
+      "w": 1.25,
+      "h": 2,
+      "w2": 1.5,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "<i class='custom custom-glyph-a'></i>",
+    {
+      "p": "OEM R5",
+      "a": 6,
+      "h": 2
+    },
+    "<i class='custom custom-glyph-a'></i>"
+  ],
+  [
+    {
+      "c": "#29211c",
+      "t": "#a7d0db",
+      "a": 7,
+      "f": 3,
+      "d": true
+    },
+    "R3",
+    {
+      "x": 0.5,
+      "c": "#5C5B58",
+      "t": "#f12d38",
+      "p": "OEM R2",
+      "f": 9
+    },
+    "<i class='custom custom-glyph-7'></i>",
+    {
+      "c": "#FFA914",
+      "p": "OEM R5",
+      "w": 2
+    },
+    "<i class='custom custom-glyph-a'></i>",
+    {
+      "c": "#f12d38",
+      "t": "#FFA914",
+      "w": 2
+    },
+    "<i class='custom custom-glyph-g'></i>"
+  ],
+  [
+    {
+      "c": "#29211c",
+      "t": "#a7d0db",
+      "f": 3,
+      "d": true
+    },
+    "R4",
+    {
+      "x": 0.5,
+      "c": "#f12d38",
+      "t": "#E0EEEC",
+      "p": "OEM R1",
+      "f": 9
+    },
+    "<i class='custom custom-glyph-d'></i>",
+    {
+      "c": "#E0EEEC",
+      "t": "#5C5B58"
+    },
+    "<i class='custom custom-glyph-b'></i>",
+    {
+      "c": "#59C394",
+      "t": "#f12d38",
+      "p": "OEM R3"
+    },
+    "<i class='custom custom-glyph-0'></i>",
+    {
+      "c": "#FFA914",
+      "t": "#a7d0db"
+    },
+    "<i class='custom custom-glyph-c'></i>",
+    {
+      "c": "#404d86",
+      "t": "#f12d38"
+    },
+    "<i class='custom custom-glyph-9'></i>"
+  ],
+  [
+    {
+      "c": "#29211c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "f": 3,
+      "d": true
+    },
+    "R4",
+    {
+      "x": 0.5,
+      "c": "#E0EEEC",
+      "t": "#5C5B58",
+      "p": "OEM R1",
+      "f": 9,
+      "w": 1.25
+    },
+    "<i class='custom custom-glyph-b'></i>",
+    {
+      "w": 1.25
+    },
+    "<i class='custom custom-glyph-2'></i>",
+    {
+      "w": 1.5
+    },
+    "<i class='custom custom-glyph-b'></i>",
+    {
+      "w": 1.5
+    },
+    "<i class='custom custom-glyph-2'></i>"
+  ],
+  [
+    {
+      "c": "#29211c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "f": 3,
+      "d": true
+    },
+    "R4",
+    {
+      "x": 0.5,
+      "c": "#f12d38",
+      "t": "#E0EEEC",
+      "p": "OEM R1",
+      "f": 9,
+      "w": 1.25
+    },
+    "<i class='custom custom-glyph-d'></i>",
+    {
+      "w": 1.5
+    },
+    "<i class='custom custom-glyph-d'></i>"
+  ],
+  [
+    {
+      "y": -0.5,
+      "c": "#cccccc",
+      "t": "#000000",
+      "p": "OEM R4",
+      "f": 3,
+      "d": true
+    },
+    "",
+    {
+      "x": 9.25,
+      "d": true
+    },
+    ""
+  ]
+]
