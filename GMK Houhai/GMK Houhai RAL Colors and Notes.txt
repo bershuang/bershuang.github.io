@@ -1,0 +1,65 @@
+GMK Houhai: Beijing night sky (hazy dark green-pink-grey), Legends brightly colored （red, gold, green, clear blue, ultramarine, Egyptian white), Cangjie sublegends, Dark grey RAMA cap with glow red houhai chop legend, glow red rama cap with CHUAR legend
+
+4/25 (Finals pre-render)
+
+Key Color: RAL 7022 Umbra grey / 暗灰色 #5C5B58
+Alphas and F Row: RAL 3024 Luminous red / 荧光红 #F12D38
+R1 Mods: RAL 240 60 40 Clear blue / 清透蓝 #2FA3C9
+R2 Mods (+ OS Keys): RAL 160 70 50 Malachite green #59C394
+R3 Mods: RAL 1028 Melon yellow / 瓜黄色 #FFA914
+R4 Mods: RAL 5002 Ultramarine blue / 群青蓝 #404D86
+Space Row Mods: RAL 190 93 05 Egyptian White / 埃及白 #E0EEEC
+
+Novelties
+
+Completed:
+Dumpling
+Willow
+Mao
+Beijing Subway
+Teapot
+Lantern
+Chinese Stars
+CCTV
+
+Partials:
+Hot Pot
+
+Up next: 
+Temple of Heaven (Tiantan)
+Swallow
+Dragon Enter
+Chuanr
+
+Tweaks:
+Sanlunche (rickshaw)
+Zombie (jiangshi)
+Forbidden City
+Steamed Bun
+
+(Original Concept Colors)
+Cobalt #0046ad
+Hot Green #00ff51
+Midnight Chocolate #29211c
+Dark Cerulean #005699
+Original Ice Blue
+Light Blue #1f84ff
+Alphas Gray (SP ABS GX) #333430
+Mods Black (SP ABS NN) #212224
+Hot Pink Magenta #ff002e
+
+Typeface for Chinese Cangjie legends: 
+
+Noto Sans SC
+
+Custom Font Styles:
+
+@font-face {
+  font-family: 'Noto Sans SC', sans-serif;
+  font-style: Medium;
+  font-weight: 500;
+  src: local('Noto Sans SC'), local('NotoSansSC-Medium'), @import url(http://fonts.googleapis.com/css?family=Noto+Sans+SC:wght@500&display=swap);
+}
+
+* { font-family: 'Noto Sans SC'; } 
+

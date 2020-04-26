@@ -3,6 +3,7 @@
     "backcolor": "#02000f",
     "name": "GMK Houhai Taikonaut Kit",
     "author": "Blake Warenik - Grundlemere",
+    "notes": "Key Color: RAL 7022 Umbra grey / 暗灰色 #5C5B58\r\nAlphas and F Row: RAL 3024 Luminous red / 荧光红 #F12D38\r\nR1 Mods: RAL 240 60 40 Clear blue / 清透蓝 #2FA3C9\r\nR2 Mods (+ OS Keys): RAL 160 70 50 Malachite green #59C394\r\nR3 Mods: RAL 1028 Melon yellow / 瓜黄色 #FFA914\r\nR4 Mods: RAL 5002 Ultramarine blue / 群青蓝 #404D86\r\nSpace Row Mods: RAL 190 93 05 Egyptian White / 埃及白 #E0EEEC",
     "switchMount": "cherry",
     "switchBrand": "gateron",
     "switchType": "KS-3-Black",
@@ -13,7 +14,7 @@
     {
       "y": 1.5,
       "x": 1.5,
-      "c": "#454342",
+      "c": "#5C5B58",
       "t": "#ff2d21",
       "p": "OEM SPACE",
       "sm": "cherry",
@@ -63,7 +64,7 @@
     },
     "",
     {
-      "c": "#ef9a36",
+      "c": "#FFA914",
       "w": 2
     },
     ""
@@ -71,7 +72,7 @@
   [
     {
       "x": 1.5,
-      "c": "#454342",
+      "c": "#5C5B58",
       "w": 2.25
     },
     "",
@@ -99,7 +100,7 @@
   [
     {
       "x": 1.5,
-      "c": "#ef9a36",
+      "c": "#FFA914",
       "w": 6.25
     },
     ""
