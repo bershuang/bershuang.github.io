@@ -3,12 +3,11 @@
     "backcolor": "#02000f",
     "name": "GMK Houhai Foreigner Kit",
     "author": "Blake Warenik - Grundlemere",
-    "notes": "Key Color: RAL 7022 Umbra grey / 暗灰色 #5C5B58\r\nAlphas and F Row: RAL 3024 Luminous red / 荧光红 #F12D38\r\nR1 Mods: RAL 240 60 40 Clear blue / 清透蓝 #2FA3C9\r\nR2 Mods (+ OS Keys): RAL 160 70 50 Malachite green #59C394\r\nR3 Mods: RAL 1028 Melon yellow / 瓜黄色 #FFA914\r\nR4 Mods: RAL 5002 Ultramarine blue / 群青蓝 #404D86\r\nSpace Row Mods: RAL 190 93 05 Egyptian White / 埃及白 #E0EEEC",
+    "notes": "Key Color: RAL 7022 Umbra grey / 暗灰色 #5C5B58\nAlphas and F Row: RAL 3024 Luminous red / 荧光红 #F12D38\nR1 Mods: RAL 240 60 40 Clear blue / 清透蓝 #2FA3C9\nR2 Mods (+ OS Keys): RAL 160 70 50 Malachite green #59C394\nR3 Mods: RAL 1028 Melon yellow / 瓜黄色 #FFA914\nR4 Mods: RAL 5002 Ultramarine blue / 群青蓝 #404D86\nSpace Row Mods: RAL 190 93 05 Egyptian White / 埃及白 #E0EEEC",
     "switchMount": "cherry",
     "switchBrand": "gateron",
     "switchType": "KS-3-Black",
-    "plate": true,
-    "css": ""
+    "plate": true
   },
   [
     {
@@ -85,12 +84,7 @@
       "a": 4,
       "fa": [
         4,
-        4,
-        0,
-        0,
-        0,
-        0,
-        0
+        4
       ],
       "w": 1.5
     },
@@ -125,6 +119,7 @@
       "t": "#FFA914",
       "p": "OEM R3",
       "a": 6,
+      "f": 3,
       "w": 1.75
     },
     "Caps Lock",
@@ -132,6 +127,7 @@
       "x": 11,
       "c": "#FFA914",
       "t": "#5C5B58",
+      "f": 3,
       "w": 2.25
     },
     "⮠\n\n\n\n\n\n\n\nEnter"
@@ -141,6 +137,7 @@
       "c": "#f7b03c",
       "t": "#a7d0db",
       "a": 7,
+      "f": 3,
       "d": true
     },
     "R4",
@@ -150,11 +147,13 @@
       "t": "#404d86",
       "p": "OEM R4",
       "a": 6,
+      "f": 3,
       "w": 2.25
     },
     "⇧ Shift",
     {
       "x": 10,
+      "f": 3,
       "w": 2.75
     },
     "⇧ Shift",
@@ -162,12 +161,14 @@
       "x": 3.5,
       "t": "#59c394",
       "a": 7,
+      "f": 3,
       "h": 2
     },
     "Enter↲",
     {
       "c": "#59c394",
       "t": "#5C5B58",
+      "f": 3,
       "h": 2
     },
     "Enter↲"
@@ -176,6 +177,7 @@
     {
       "c": "#f7b03c",
       "t": "#a7d0db",
+      "f": 3,
       "d": true
     },
     "R4",
@@ -184,35 +186,42 @@
       "c": "#5C5B58",
       "t": "#E0EEEC",
       "a": 6,
+      "f": 3,
       "w": 1.25
     },
     "Ctrl",
     {
       "t": "#59c394",
+      "f": 3,
       "w": 1.25
     },
     "Super",
     {
       "t": "#E0EEEC",
+      "f": 3,
       "w": 1.25
     },
     "Alt",
     {
       "x": 6.25,
+      "f": 3,
       "w": 1.25
     },
     "Alt",
     {
       "t": "#59c394",
+      "f": 3,
       "w": 1.25
     },
     "Super",
     {
       "t": "#E0EEEC",
+      "f": 3,
       "w": 1.25
     },
     "Menu",
     {
+      "f": 3,
       "w": 1.25
     },
     "Ctrl"
@@ -224,6 +233,7 @@
       "t": "#a7d0db",
       "p": "OEM R5",
       "a": 7,
+      "f": 3,
       "d": true
     },
     "R1",
@@ -232,25 +242,35 @@
       "c": "#5C5B58",
       "t": "#2FA3C9",
       "p": "OEM R1",
-      "a": 6
+      "a": 6,
+      "f": 3
     },
     "Esc",
     {
       "x": 13,
-      "t": "#43a2d3"
+      "t": "#43a2d3",
+      "f": 3
     },
     "Bksp",
     {
       "x": 0.25,
-      "c": "#f12d38"
+      "c": "#f12d38",
+      "f": 3
     },
     "Del",
     {
       "c": "#5C5B58",
-      "t": "#2FA3C9"
+      "t": "#2FA3C9",
+      "f": 3
     },
     "Del",
+    {
+      "f": 3
+    },
     "End",
+    {
+      "f": 3
+    },
     "Pg Dn"
   ],
   [
@@ -259,6 +279,7 @@
       "t": "#a7d0db",
       "p": "OEM R5",
       "a": 7,
+      "f": 3,
       "d": true
     },
     "R2",
@@ -268,15 +289,6 @@
       "t": "#59c394",
       "p": "OEM R2",
       "a": 4,
-      "fa": [
-        4,
-        4,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
       "w": 1.25
     },
     "⇤\n⇥\n\n\n\n\nTab",
@@ -333,6 +345,7 @@
       "t": "#FFA914",
       "p": "OEM R3",
       "a": 6,
+      "f": 3,
       "w": 1.25,
       "w2": 1.75,
       "l": true
@@ -340,18 +353,24 @@
     "Caps Lock",
     {
       "x": 0.5,
+      "f": 3,
       "w": 1.75
     },
     "Ctrl",
     {
       "x": 9.25,
+      "f": 3,
       "w": 2.25
     },
     "⮠\n\n\n\n\n\n\n\nEnter",
     {
-      "x": 0.25
+      "x": 0.25,
+      "f": 3
     },
     "Pg Dn",
+    {
+      "f": 3
+    },
     "Pg Up"
   ],
   [
@@ -360,6 +379,7 @@
       "t": "#a7d0db",
       "p": "OEM R5",
       "a": 7,
+      "f": 3,
       "d": true
     },
     "R4",
@@ -368,34 +388,47 @@
       "c": "#5C5B58",
       "t": "#404d86",
       "a": 6,
+      "f": 3,
       "w": 2.25
     },
     "⇧ Shift",
     {
-      "t": "#E0EEEC"
+      "t": "#E0EEEC",
+      "f": 3
     },
     "Ctrl",
+    {
+      "f": 3
+    },
     "Ctrl",
     {
-      "x": 6
+      "x": 6,
+      "f": 3
     },
     "Menu",
     {
       "t": "#404d86",
+      "f": 3,
       "w": 2
     },
     "⇧ Shift",
     {
+      "f": 3,
       "w": 1.75
     },
     "⇧ Shift",
     {
-      "x": 0.25
+      "x": 0.25,
+      "f": 3
     },
     "End",
+    {
+      "f": 3
+    },
     "Pg Dn",
     {
       "x": 0.25,
+      "f": 3,
       "w": 1.25
     },
     "⇧ Shift"
@@ -405,6 +438,7 @@
       "c": "#f7b03c",
       "t": "#a7d0db",
       "a": 7,
+      "f": 3,
       "d": true
     },
     "R4",
@@ -414,29 +448,35 @@
       "t": "#E0EEEC",
       "p": "OEM R4",
       "a": 6,
+      "f": 3,
       "w": 1.5
     },
     "Ctrl",
     {
-      "t": "#59c394"
+      "t": "#59c394",
+      "f": 3
     },
     "Super",
     {
       "t": "#E0EEEC",
+      "f": 3,
       "w": 1.5
     },
     "Alt",
     {
       "x": 7,
+      "f": 3,
       "w": 1.5
     },
     "Alt",
     {
-      "t": "#59c394"
+      "t": "#59c394",
+      "f": 3
     },
     "Super",
     {
       "t": "#F5F3F1",
+      "f": 3,
       "w": 1.5
     },
     "Ctrl"
@@ -447,6 +487,7 @@
       "t": "#a7d0db",
       "p": "OEM R5",
       "a": 7,
+      "f": 3,
       "d": true
     },
     "R4",
@@ -456,23 +497,41 @@
       "t": "#E0EEEC",
       "p": "OEM R4",
       "a": 6,
+      "f": 3,
       "w": 1.5
     },
     "Menu",
+    {
+      "f": 3
+    },
     "Alt",
     {
       "t": "#59c394",
+      "f": 3,
       "w": 1.5
     },
     "Super",
     {
       "x": 7,
+      "f": 3,
       "w": 1.5
     },
     "Super",
     {
-      "t": "#E0EEEC"
+      "t": "#E0EEEC",
+      "f": 3
     },
     "Alt"
+  ],
+  [
+    {
+      "x": 22,
+      "c": "#f7b03c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "a": 7,
+      "d": true
+    },
+    ""
   ]
 ]

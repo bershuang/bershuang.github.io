@@ -3,16 +3,16 @@
     "backcolor": "#02000f",
     "name": "GMK Houhai Cangjie Kit",
     "author": "Blake Warenik - Grundlemere",
-    "notes": "Key Color: RAL 7022 Umbra grey / 暗灰色 #5C5B58\r\nAlphas and F Row: RAL 3024 Luminous red / 荧光红 #F12D38\r\nR1 Mods: RAL 240 60 40 Clear blue / 清透蓝 #2FA3C9\r\nR2 Mods (+ OS Keys): RAL 160 70 50 Malachite green #59C394\r\nR3 Mods: RAL 1028 Melon yellow / 瓜黄色 #FFA914\r\nR4 Mods: RAL 5002 Ultramarine blue / 群青蓝 #404D86\r\nSpace Row Mods: RAL 190 93 05 Egyptian White / 埃及白 #E0EEEC",
+    "notes": "Key Color: RAL 7022 Umbra grey / 暗灰色 #5C5B58\nAlphas and F Row: RAL 3024 Luminous red / 荧光红 #F12D38\nR1 Mods: RAL 240 60 40 Clear blue / 清透蓝 #2FA3C9\nR2 Mods (+ OS Keys): RAL 160 70 50 Malachite green #59C394\nR3 Mods: RAL 1028 Melon yellow / 瓜黄色 #FFA914\nR4 Mods: RAL 5002 Ultramarine blue / 群青蓝 #404D86\nSpace Row Mods: RAL 190 93 05 Egyptian White / 埃及白 #E0EEEC",
     "switchMount": "cherry",
     "switchBrand": "gateron",
     "switchType": "KS-3-Black",
-    "css": "@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@500&display=swap');\n\n* .keylabel0 { font-family: 'Noto Sans SC', sans-serif; } ",
-    "plate": true
+    "plate": true,
+    "css": "@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@500&display=swap');\n\n* .keylabel0 { font-family: 'Noto Sans SC', sans-serif; } "
   },
   [
     {
-      "y": 0.25,
+      "y": 1,
       "c": "#f7b03c",
       "t": "#a7d0db",
       "p": "OEM R1",
@@ -146,11 +146,19 @@
     },
     "R3",
     {
-      "x": 5.25,
+      "x": 4.25,
       "c": "#5C5B58",
       "t": "#f12d38",
-      "p": "OEM R3",
+      "p": "GMK",
       "a": 4,
+      "f": 7,
+      "fa": [
+        5
+      ]
+    },
+    "月",
+    {
+      "p": "OEM R3",
       "f": 4,
       "fa": [
         5
@@ -162,5 +170,17 @@
       "n": true
     },
     "十"
+  ],
+  [
+    {
+      "x": 12,
+      "c": "#f7b03c",
+      "t": "#a7d0db",
+      "p": "OEM R4",
+      "a": 7,
+      "f": 3,
+      "d": true
+    },
+    ""
   ]
 ]

@@ -1,0 +1,78 @@
+[
+  {
+    "backcolor": "#02000f",
+    "name": "GMK Houhai Paths Kit",
+    "author": "Blake Warenik - Grundlemere",
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Black",
+    "plate": true
+  },
+  [
+    {
+      "y": 1,
+      "c": "#f7b03c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Tea",
+      "a": 7,
+      "d": true
+    },
+    "R4",
+    {
+      "x": 1.75,
+      "c": "#5C5B58",
+      "t": "#E0EEEC",
+      "p": "OEM R4",
+      "f": 6
+    },
+    "上",
+    {
+      "x": 3,
+      "c": "#404d86",
+      "t": "#59c394"
+    },
+    "上"
+  ],
+  [
+    {
+      "c": "#f7b03c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "f": 3,
+      "d": true
+    },
+    "R4",
+    {
+      "x": 0.75,
+      "c": "#5C5B58",
+      "t": "#E0EEEC",
+      "p": "OEM R4",
+      "f": 6
+    },
+    "左",
+    "下",
+    "右",
+    {
+      "x": 1,
+      "c": "#404d86",
+      "t": "#59c394"
+    },
+    "左",
+    "下",
+    "右"
+  ],
+  [
+    {
+      "x": 9,
+      "c": "#f7b03c",
+      "t": "#a7d0db",
+      "p": "OEM R5",
+      "f": 3,
+      "d": true
+    },
+    ""
+  ]
+]

@@ -213,16 +213,17 @@
     {
       "w": 1.25
     },
-    "<i class='custom custom-glyph-j'></i>",
-    {
-      "w": 1.5
-    },
     "<i class='custom custom-glyph-i'></i>",
+    "<i class='custom custom-glyph-e'></i>",
+    "<i class='custom custom-glyph-e'></i>",
     {
       "w": 1.5
     },
     "<i class='custom custom-glyph-j'></i>",
-    "<i class='custom custom-glyph-e'></i>"
+    {
+      "w": 1.5
+    },
+    "<i class='custom custom-glyph-j'></i>"
   ],
   [
     {
@@ -243,12 +244,12 @@
     },
     "<i class='custom custom-glyph-d'></i>",
     {
-      "w": 1.5
+      "w": 1.25
     },
     "<i class='custom custom-glyph-d'></i>",
     {
       "t": "#f12d38",
-      "w": 1.25
+      "w": 1.5
     },
     "<i class='custom custom-glyph-h'></i>",
     {
