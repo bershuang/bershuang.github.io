@@ -1,4 +1,4 @@
-Copy-paste file for GMK Houhai Chinese legends
+Copy-paste file for GMK Houhai/Shan Shui Simplified Chinese legends
 
 Alphas
 1一 2二 3三 4四 5五 6六 7七 8八 9九 0零 
@@ -16,6 +16,31 @@ Mods
 Esc退出 Print截屏 Scroll锁定 Pause暂停
 Backspace退格 Ins插入 Home行首 PgUp上页 Num数字
 Tab跳格 Del删除 End行尾 PgDn下页
-CapsLock大写锁定 Enter回车
+CapsLock大写锁定 Return回车 Enter (num)输入
 Shift上档 Up上
 Ctrl控制 Super超级 Alt切换 Menu菜单 Left左 Down下 Right右
+
+
+
+
+Copy-paste file for GMK Houhai/Shan Shui Traditional Chinese legends
+
+Alphas
+1一 2二 3三 4四 5五 6六 7七 8八 9九 0零 
+Q手 W田 E水 R口 T廿 Y卜 U山 I戈 O人 P心
+A日 S尸 D木 F火 G土 H竹 J十 K大 L中 
+Z重 X難 C金 V女 B月 N弓 M一 
+
+Numpad
+7柒 8捌 9玖 
+4肆 5伍 6陆 
+1壹 2贰 3叁 
+0零 00雙零 
+
+Mods
+Esc退出 Print截屏 Scroll鎖定 Pause暫停
+Backspace退格 Ins插入 Home行首 PgUp上頁 Num數字
+Tab跳格 Del刪除 End行尾 PgDn下頁 Enter (num)輸入
+CapsLock大寫鎖定 Return回車
+Shift上檔 Up上 North北
+Ctrl控制 Super超級 Alt切換 Menu菜單 Left左 Down下 Right右 West西 South南 East东
