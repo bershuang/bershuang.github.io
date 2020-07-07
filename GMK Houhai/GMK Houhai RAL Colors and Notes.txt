@@ -1,3 +1,12 @@
+[{y:1,c:"#171718",t:"#f7f2ea",p:"OEM R5",sm:"cherry",sb:"gateron",st:"KS-3-Tea",a:7,d:true},"R1",{x:0.5,p:"OEM R1",f:9},"<i class='custom custom-glyph-2'></i>",{p:"OEM R2"},"<i class='custom custom-glyph-6'></i>"],
+[{p:"OEM R5",f:3,d:true},"R2",{x:0.5,p:"OEM R1",f:9},"<i class='custom custom-glyph-4'></i>",{x:4,p:"OEM R4",w:1.25,h:2,w2:1.5,h2:1,x2:-0.25},"<i class='custom custom-glyph-9'></i>"],
+[{p:"OEM R5",f:3,d:true},"R3",{x:0.5,p:"OEM R3",f:9},"<i class='custom custom-glyph-1'></i>",{p:"OEM R5",w:2},"<i class='custom custom-glyph-7'></i>",{w:2},"<i class='custom custom-glyph-8'></i>"],
+[{f:3,d:true},"R4",{x:0.5,p:"OEM R3",f:9},"<i class='custom custom-glyph-3'></i>","<i class='custom custom-glyph-3'></i>",{p:"OEM R1"},"<i class='custom custom-glyph-5'></i>","<i class='custom custom-glyph-5'></i>"],
+[{p:"OEM R5",f:3,d:true},"R4",{x:0.5,p:"OEM R1",f:9,w:1.25},"<i class='custom custom-glyph-6'></i>",{w:1.25},"<i class='custom custom-glyph-6'></i>",{w:1.5},"<i class='custom custom-glyph-3'></i>",{w:1.5},"<i class='custom custom-glyph-3'></i>"],
+[{p:"OEM R5",f:3,d:true},"R4",{x:0.5,p:"OEM R1",f:9,w:1.25},"<i class='custom custom-glyph-1'></i>",{w:1.25},"<i class='custom custom-glyph-1'></i>",{w:1.5},"<i class='custom custom-glyph-4'></i>",{w:1.5},"<i class='custom custom-glyph-4'></i>"],
+[{p:"OEM R4",f:3,d:true},"",{x:7,d:true},""]
+
+
 GMK Houhai: Beijing night sky (hazy dark green-pink-grey), Legends brightly colored （red, gold, green, clear blue, ultramarine, Egyptian white), Cangjie sublegends, Dark grey RAMA cap with glow red houhai chop legend, glow red rama cap with CHUAR legend
 
 4/25 (Finals pre-render)
@@ -10,7 +19,7 @@ R3 Mods: RAL 1028 Melon yellow / 瓜黄色 #FFA914
 R4 Mods: RAL 5002 Ultramarine blue / 群青蓝 #404D86
 Space Row Mods: RAL 190 93 05 Egyptian White / 埃及白 #E0EEEC
 
-Novelties
+Novelties2fac39
 
 Completed:
 Dumpling
